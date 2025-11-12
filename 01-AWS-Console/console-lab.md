@@ -15,7 +15,7 @@ This section details the process of accessing the AWS Management Console and nav
 | **1. Access the Login Page** | Navigate to the AWS Management Console login URL. Enter your **IAM User Name** and **Password** to sign in. | ![AWS Console Login Page](../../images/console-login-page.png) |
 | **2. Navigate to the Console Home** | Upon successful login, you will be directed to the AWS Management Console Home dashboard. | ![AWS Console Main Dashboard](../../images/console-main-dashboard.png) |
 | **3. Search for S3 Service** | Use the search bar at the top of the console to find and select the **S3** service. | *Refer to the search bar in the previous screenshot.* |
-| **4. Access the S3 Dashboard** | This page provides an overview of the Amazon S3 service, including features and use cases. Click on **Buckets** or the **Create bucket** button to proceed. | ![AWS S3 Dashboard](../../images/images/console-s3-dashboard.png) |
+| **4. Access the S3 Dashboard** | This page provides an overview of the Amazon S3 service, including features and use cases. Click on **Buckets** or the **Create bucket** button to proceed. | ![AWS S3 Dashboard](../../images/console-s3-dashboard.png) |
 
 ---
 
